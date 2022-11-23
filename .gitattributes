@@ -1,2 +1,2 @@
-*.txt text working-tree-encoding=windows-1252
+*.txt text encoding=cp1252
 utf16.md text working-tree-encoding=UTF-16LE-BOM
